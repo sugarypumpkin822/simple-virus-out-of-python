@@ -1,1 +1,1 @@
-# simple-virus-out-of-python
+# DONT USE ON A REAL PC ONLY USE ON A VM IT IS NOT MY FAULT IF YOU USE IT ON YOUR PC
